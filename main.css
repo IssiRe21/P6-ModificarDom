@@ -1,0 +1,22 @@
+.box {
+    width: 250px;
+    height: 250px;
+    margin-bottom: 16px;
+    background-color: aqua;
+}
+
+.blue-box {
+    background-color: rgb(68, 68, 219);
+}
+
+.red-box {
+    background-color: red;
+}
+
+.green-box {
+    background-color: green;
+}
+
+.purple-box {
+    background-color: rebeccapurple;
+}
